@@ -45,4 +45,4 @@ Notes
 - Ensure that the docs/ folder contains the PDFs you want to query before running the script.
 
 License
-This project is provided for educational and demonstration purposes. Use at your own risk.
+This project is provided for educational and demonstration purposes.
